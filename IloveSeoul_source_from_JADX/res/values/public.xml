@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="ya" id="0x7f020000" />
+    <public type="anim" name="fadein" id="0x7f030000" />
+    <public type="anim" name="fadeout" id="0x7f030001" />
+    <public type="anim" name="hold" id="0x7f030002" />
+    <public type="anim" name="slide_enter" id="0x7f030003" />
+    <public type="anim" name="slide_enter_reverse" id="0x7f030004" />
+    <public type="anim" name="slide_exit" id="0x7f030005" />
+    <public type="anim" name="slide_exit_reverse" id="0x7f030006" />
+    <public type="anim" name="slide_v_enter" id="0x7f030007" />
+    <public type="anim" name="slide_v_enter_reverse" id="0x7f030008" />
+    <public type="anim" name="slide_v_exit" id="0x7f030009" />
+    <public type="anim" name="slide_v_exit_reverse" id="0x7f03000a" />
+    <public type="anim" name="zoom_enter" id="0x7f03000b" />
+    <public type="anim" name="zoom_enter_reverse" id="0x7f03000c" />
+    <public type="anim" name="zoom_exit" id="0x7f03000d" />
+    <public type="anim" name="zoom_exit_reverse" id="0x7f03000e" />
+</resources>

@@ -1,0 +1,65 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: sY6+RQ4DWdnxCfSpiwTT6GRIwA0=
+Created-By: 1.7.0_45 (Oracle Corporation)
+SHA1-Digest-Manifest: QcbVzWxHrha5W3v7BMOpvo6gyoY=
+
+Name: res/anim/zoom_enter.xml
+SHA1-Digest: TZI2W2mJTb97rOyqBcFiVb+N/Ps=
+
+Name: res/anim/slide_exit.xml
+SHA1-Digest: hKmrhN7PJ0Gz70zPaxyEX7K1sEA=
+
+Name: res/anim/slide_v_enter_reverse.xml
+SHA1-Digest: KGjl9372Wi4UEPKkQA55aw1JUww=
+
+Name: res/drawable/ya.png
+SHA1-Digest: JYf3mv9V5fNt8j2J4CgkVDNvMbA=
+
+Name: res/anim/slide_v_exit_reverse.xml
+SHA1-Digest: vpIn9MPGJuvmj8PgOnpfaLmmS8o=
+
+Name: res/anim/fadein.xml
+SHA1-Digest: Q7XCqAr5pIXK4Ic0ZuHp7jVmS+M=
+
+Name: res/anim/slide_enter_reverse.xml
+SHA1-Digest: p3wuAOESyCI+nXrXn4vD813dP8M=
+
+Name: assets/Seoul.jpg
+SHA1-Digest: ZqL794YDpn/9s4BCswy5p8lF6hw=
+
+Name: res/anim/zoom_enter_reverse.xml
+SHA1-Digest: eWVbswuVWzmp8CYFp+GZPGf12G4=
+
+Name: resources.arsc
+SHA1-Digest: IgXF26LhS0zWx8LFfHjyzZriRAE=
+
+Name: classes.dex
+SHA1-Digest: 3rbE+2m72+d71ZXRmpwWaLln5ys=
+
+Name: res/anim/zoom_exit.xml
+SHA1-Digest: Pr9rKYxLrT0ThcQ3+N3MJpp/zaM=
+
+Name: res/anim/slide_enter.xml
+SHA1-Digest: d5KU2ZODq8CtWyiiH33x+waOyII=
+
+Name: AndroidManifest.xml
+SHA1-Digest: XSaYQg0yowvYQ15f5jTTdL/2bA0=
+
+Name: res/anim/slide_exit_reverse.xml
+SHA1-Digest: 7STvRf9xvnzW/mhtPQrsvfFqEk4=
+
+Name: res/anim/slide_v_exit.xml
+SHA1-Digest: dOzTqtLsDr0+VrMpfOe4Dc0p3Fk=
+
+Name: res/anim/slide_v_enter.xml
+SHA1-Digest: vEUtBdE2WeYV9yHohjq10lY1qRc=
+
+Name: res/anim/fadeout.xml
+SHA1-Digest: qKZk6xwZr6sHvHySHbPEsRubRM8=
+
+Name: res/anim/hold.xml
+SHA1-Digest: +Chb3vg3wVLquPUhS8378m+4umg=
+
+Name: res/anim/zoom_exit_reverse.xml
+SHA1-Digest: BO/x5lNuU3kUnZuKsHklVkHnbjE=
+
